@@ -38,5 +38,30 @@ Rollout/  | \|
 ep_len_mean  | 338
 ep_rew_mean  | 254 
 
+Time/  | \|
+------------- | -------------
+fps  | 869
+iterations  | 62
+time_elapsed  | 1167
+total_timesteps  | 1015808
+
+Train/  | \|
+------------- | -------------
+approx_kl  | 0.005054847
+clip_fraction  | 0.0444
+clip_range  | 0.2
+entropy_loss  | -0.792
+explained_variance  | 0.922 
+learning_rate  | 0.0003 
+loss  | 34.7
+n_updates  | 244
+policy_gradient_loss  | -9.89e-05
+value_loss  | 124
+
+
+Reward/  | \|
+------------- | -------------
+Mean Reward  | 256.25
+std_reward  | +/- 20.06130326723367 
 # Reward
 Mean Reward =256.25 +/- 20.06130326723367
