@@ -33,5 +33,10 @@ If the right leg has contact point touched the land
 |    policy_gradient_loss | -9.89e-05   |
 |    value_loss           | 124         |
 
+Rollout/  | \|
+------------- | -------------
+ep_len_mean  | 338
+ep_rew_mean  | 254 
+
 # Reward
 Mean Reward =256.25 +/- 20.06130326723367
