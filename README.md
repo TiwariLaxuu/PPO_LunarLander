@@ -45,6 +45,5 @@ Reward/  | Value/
 Mean Reward  | 256.25
 std_reward  | +/- 20.06130326723367 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](replay.mp4)
 
 <video src='replay.mp4' width=180/>
