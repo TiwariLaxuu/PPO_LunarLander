@@ -46,5 +46,5 @@ Mean Reward  | 256.25
 std_reward  | +/- 20.06130326723367 
 
 
-<video src='replay.mov'/>
-<video src='video1.mov' width=180/>
+
+<video src='https://github.com/TiwariLaxuu/PPO_LunarLander/blob/main/replay.mov' width=180/>
